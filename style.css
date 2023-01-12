@@ -1,0 +1,26 @@
+body {
+    padding: 2rem 0 0 2rem;
+    background-color: green;
+}
+
+#quote-box {
+    margin: auto;
+     padding: auto;
+     text-align: center;
+}
+
+#text {
+    font-style: bold;
+    font-size: 3rem;
+}
+
+#author {
+  font-size: 2rem;
+  text-align: right;
+}
+
+#buttons {
+  position: sticky;
+  padding: 4vw;
+  margin: 4vw;
+}
